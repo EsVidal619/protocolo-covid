@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<title>MyCardPersonal</title>
+</head>
+<body>
+	<div class="container">
+		<div class="cardPersonal">
+				<div class="cardImagen">
+					<img src="img/jin_sakai_samurai_games_hd_ghost_of_tsushima.jpg" width="200" height="200" : alt="YoMismo">
+						</div>
+						<div class="cardInfo">
+							<h1>PROTOCOLO COVID</h1>
+							<h2>DEPARTAMENTO DE ADMINISTRACION</h2>
+							<P>El uso de mascarilla es primordial esta debe cambiarse cada 2 horas</P>
+							<P>Distanciamiento de almenos 1 metro</P>
+							<P>Lavarse las manos contantemente con abundante agua y jabon</P>
+						
+					</div>
+				</div>
+			</div>
+		
+	
+</body>
+</html>
